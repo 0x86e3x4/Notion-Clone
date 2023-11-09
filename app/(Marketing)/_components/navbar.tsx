@@ -45,7 +45,7 @@ export const Navbar = () => {
           <>
             <Button variant="ghost" size="sm" asChild>
               <Link href="/documents">
-                Enter Jotion
+                Enter Notion
               </Link>
             </Button>
             <UserButton
